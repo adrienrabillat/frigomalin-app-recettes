@@ -5,11 +5,11 @@
 
 MEMBRES DU GROUPE
 -----------------
-1. SAIGHI Aymen      - ***      - [Classe]
+1. SAIGHI Aymen      - ***      - CCC3
 2. RABILLAT Adrien   - ***   - CCC3
-3. SOUMATI Aboubakr  - ***  - [Classe]
-4. RONSERAY Antonin  - ***  - [Classe]
-5. RIDANE Eya        - ***        - [Classe]
+3. SOUMATI Aboubakr  - ***  - CCC3
+4. RONSERAY Antonin  - ***  - CCC3
+5. RIDANE Eya        - ***        - CCC3
 
 École : ESILV
 Année académique : 2024-2025
