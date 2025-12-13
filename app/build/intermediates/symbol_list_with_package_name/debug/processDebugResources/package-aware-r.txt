@@ -4086,6 +4086,7 @@ string readme_student1
 string readme_student2
 string readme_student3
 string readme_student4
+string readme_student5
 string readme_title
 string readme_year
 string retry

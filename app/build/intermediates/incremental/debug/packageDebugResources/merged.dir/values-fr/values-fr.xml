@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrigoMalin</string>
+    <string name="back">Retour</string>
+    <string name="btn_about">À Propos</string>
+    <string name="btn_add_photo">Ajouter une Photo</string>
+    <string name="btn_search">Rechercher</string>
+    <string name="btn_search_recipes">Rechercher des Recettes</string>
+    <string name="btn_share">Partager la Recette</string>
+    <string name="camera_error">Erreur lors de l\'accès à la caméra</string>
+    <string name="camera_permission_denied">L\'autorisation de la caméra est requise pour prendre des photos</string>
+    <string name="detail_error">Erreur lors du chargement des détails</string>
+    <string name="detail_ingredients">Ingrédients</string>
+    <string name="detail_instructions">Instructions</string>
+    <string name="detail_title">Détails de la Recette</string>
+    <string name="landing_subtitle">Votre assistant intelligent de réfrigérateur</string>
+    <string name="landing_title">Bienvenue sur FrigoMalin</string>
+    <string name="loading">Chargement…</string>
+    <string name="readme_api">Cette application utilise l\'API TheMealDB pour récupérer les données de recettes.</string>
+    <string name="readme_description">FrigoMalin est une application d\'assistant de réfrigérateur intelligent qui vous aide à trouver des recettes basées sur les ingrédients que vous avez chez vous.</string>
+    <string name="readme_feature_details">• Voir les instructions détaillées des recettes</string>
+    <string name="readme_feature_photo">• Ajouter des photos à vos recettes préférées</string>
+    <string name="readme_feature_search">• Rechercher des recettes par ingrédient</string>
+    <string name="readme_feature_share">• Partager des recettes avec vos amis</string>
+    <string name="readme_features">Fonctionnalités</string>
+    <string name="readme_group">Membres du Groupe</string>
+    <string name="readme_project_info">Informations sur le Projet</string>
+    <string name="readme_school">École : ESILV</string>
+    <string name="readme_student1">Étudiant 1 : RABILLAT Adrien</string>
+    <string name="readme_student2">Étudiant 2 : SOUMATI Aboubakr</string>
+    <string name="readme_student3">Étudiant 3 : RONSERAY Antonin</string>
+    <string name="readme_student4">Étudiant 4 : RIDANE Eya</string>
+    <string name="readme_student5">Étudiant 5 : SAIGHI Aymen</string>
+    <string name="readme_title">À Propos de FrigoMalin</string>
+    <string name="readme_year">Année Académique : 2024-2025</string>
+    <string name="retry">Réessayer</string>
+    <string name="search_empty">Saisissez un ingrédient pour rechercher</string>
+    <string name="search_error">Erreur lors du chargement des recettes</string>
+    <string name="search_hint">Saisissez un ingrédient (ex: poulet)</string>
+    <string name="search_no_results">Aucune recette trouvée</string>
+    <string name="search_title">Rechercher des Recettes</string>
+    <string name="share_subject">Découvrez cette recette !</string>
+    <string name="share_text">Découvrez la recette %1$s !\n\nInstructions :\n%2$s</string>
+</resources>

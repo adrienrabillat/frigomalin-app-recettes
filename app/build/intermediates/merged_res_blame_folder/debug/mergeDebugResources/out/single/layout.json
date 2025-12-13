@@ -1,26 +1,30 @@
 [
     {
-        "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_search.xml",
-        "source": "com.example.frigomalin.app-main-51:/layout/fragment_search.xml"
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/item_meal.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/item_meal.xml"
     },
     {
-        "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/activity_main.xml",
-        "source": "com.example.frigomalin.app-main-51:/layout/activity_main.xml"
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_landing.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/fragment_landing.xml"
     },
     {
-        "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/item_meal.xml",
-        "source": "com.example.frigomalin.app-main-51:/layout/item_meal.xml"
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_detail.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/fragment_detail.xml"
     },
     {
         "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_readme.xml",
         "source": "com.example.frigomalin.app-main-51:/layout/fragment_readme.xml"
     },
     {
-        "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_landing.xml",
-        "source": "com.example.frigomalin.app-main-51:/layout/fragment_landing.xml"
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/activity_main.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/activity_main.xml"
     },
     {
-        "merged": "com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_detail.xml",
-        "source": "com.example.frigomalin.app-main-51:/layout/fragment_detail.xml"
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_search.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/fragment_search.xml"
+    },
+    {
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-mergeDebugResources-48:/layout/fragment_readme.xml",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/fragment_readme.xml"
     }
 ]

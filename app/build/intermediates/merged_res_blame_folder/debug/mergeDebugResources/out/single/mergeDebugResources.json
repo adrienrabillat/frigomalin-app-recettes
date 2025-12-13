@@ -24,10 +24,6 @@
         "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/layout/fragment_search.xml"
     },
     {
-        "merged": "com.example.frigomalin.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "com.example.frigomalin.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
-    },
-    {
         "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-debug-49:/mipmap-hdpi_ic_launcher_foreground.xml.flat",
         "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/mipmap-hdpi/ic_launcher_foreground.xml"
     },
@@ -44,12 +40,16 @@
         "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
+        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
         "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-debug-49:/xml_data_extraction_rules.xml.flat",
         "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-debug-49:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-main-51:/mipmap-anydpi-v26/ic_launcher_round.xml"
+        "merged": "com.example.frigomalin.app-debug-49:/layout_fragment_readme.xml.flat",
+        "source": "com.example.frigomalin.app-main-51:/layout/fragment_readme.xml"
     },
     {
         "merged": "/Users/adrienrabillat/.gradle/daemon/8.9/com.example.frigomalin.app-debug-49:/layout_fragment_landing.xml.flat",

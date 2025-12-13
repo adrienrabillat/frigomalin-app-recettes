@@ -110,6 +110,13 @@
             android:layout_height="wrap_content"
             android:text="@string/readme_student4"
             android:textSize="15sp"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/readme_student5"
+            android:textSize="15sp"
             android:layout_marginBottom="24dp" />
 
         <TextView
