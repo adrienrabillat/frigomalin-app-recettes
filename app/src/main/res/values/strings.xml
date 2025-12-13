@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">FrigoMalin</string>
+    
+    <!-- Landing Fragment -->
+    <string name="landing_title">Welcome to FrigoMalin</string>
+    <string name="landing_subtitle">Your smart fridge assistant</string>
+    <string name="btn_search_recipes">Search Recipes</string>
+    <string name="btn_about">About</string>
+    
+    <!-- Search Fragment -->
+    <string name="search_title">Search Recipes</string>
+    <string name="search_hint">Enter an ingredient (e.g., chicken)</string>
+    <string name="btn_search">Search</string>
+    <string name="search_no_results">No recipes found</string>
+    <string name="search_error">Error loading recipes</string>
+    <string name="search_empty">Enter an ingredient to search</string>
+    
+    <!-- Detail Fragment -->
+    <string name="detail_title">Recipe Details</string>
+    <string name="detail_instructions">Instructions</string>
+    <string name="detail_ingredients">Ingredients</string>
+    <string name="btn_share">Share Recipe</string>
+    <string name="btn_add_photo">Add Photo</string>
+    <string name="detail_error">Error loading recipe details</string>
+    <string name="share_subject">Check out this recipe!</string>
+    <string name="share_text">Check out %1$s recipe!\n\nInstructions:\n%2$s</string>
+    <string name="camera_permission_denied">Camera permission is required to take photos</string>
+    <string name="camera_error">Error accessing camera</string>
+    
+    <!-- Readme Fragment -->
+    <string name="readme_title">About FrigoMalin</string>
+    <string name="readme_project_info">Project Information</string>
+    <string name="readme_description">FrigoMalin is a smart fridge assistant app that helps you find recipes based on ingredients you have at home.</string>
+    <string name="readme_api">This app uses TheMealDB API to fetch recipe data.</string>
+    <string name="readme_features">Features</string>
+    <string name="readme_feature_search">• Search recipes by ingredient</string>
+    <string name="readme_feature_details">• View detailed recipe instructions</string>
+    <string name="readme_feature_share">• Share recipes with friends</string>
+    <string name="readme_feature_photo">• Add photos to your favorite recipes</string>
+    <string name="readme_group">Group Members</string>
+    <string name="readme_student1">Student 1: RABILLAT Adrien</string>
+    <string name="readme_student2">Student 2: SOUMATI Aboubakr</string>
+    <string name="readme_student3">Student 3: RONSERAY Antonin</string>
+    <string name="readme_student4">Student 4: RIDANE Eya</string>
+    <string name="readme_school">School: ESILV</string>
+    <string name="readme_year">Academic Year: 2024-2025</string>
+    
+    <!-- Common -->
+    <string name="loading">Loading…</string>
+    <string name="retry">Retry</string>
+    <string name="back">Back</string>
+</resources>
