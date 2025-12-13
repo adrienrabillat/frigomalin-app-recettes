@@ -27,7 +27,6 @@ data class MealDetail(
     @SerializedName("strYoutube")
     val youtubeUrl: String?,
     
-    // Ingredients (up to 20)
     @SerializedName("strIngredient1")
     val ingredient1: String?,
     @SerializedName("strIngredient2")
@@ -49,7 +48,6 @@ data class MealDetail(
     @SerializedName("strIngredient10")
     val ingredient10: String?,
     
-    // Measures (up to 20)
     @SerializedName("strMeasure1")
     val measure1: String?,
     @SerializedName("strMeasure2")
